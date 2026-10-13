@@ -1,8 +1,9 @@
-#!/usr/bin/env python
-# tiny helper
-print('ok')
-func main() { println("hi") }
+# SerializerFactory-e40613
 
-# 3e25d6
+A Java SerializerFactory utility.
 
-# e04075
+## Build
+
+```bash
+javac Main.java && java Main
+```
